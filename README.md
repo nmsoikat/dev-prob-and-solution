@@ -1,1 +1,1 @@
-[Postgres](https://github.com/nmsoikat/dev-prob-and-solution/postgres)
+[Postgres](postgres/README.md)
