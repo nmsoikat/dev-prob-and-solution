@@ -1,2 +1,3 @@
-[Postgres](postgres/README.md)
-[Postgres2](postgres/test.md)
+- [Dev Guide](./dev-guide.md)
+- [Postgres](postgres/README.md)
+- [Postgres2](postgres/test.md)
